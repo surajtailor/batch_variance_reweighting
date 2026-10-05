@@ -1,0 +1,2 @@
+best_epoch,best_valid_nll,best_valid_rmse,best_valid_mse
+400,0.16128467378162203,0.2981802855701252,0.08891148270268143
